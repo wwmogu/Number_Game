@@ -1,6 +1,0 @@
- This version will add the ability to check 
- if the user has filled in the numbers 
- according to the rules of the game.(line 42-58)
-
-update:
-(line 26)promote user input the number, Solve the problem of no prompt input in version one.

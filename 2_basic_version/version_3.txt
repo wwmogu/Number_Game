@@ -1,6 +1,0 @@
-This version will add the ability to pause the programm when checking if the user board is right or not.(line 45-47)
-
-update:
-(line 25)tell user which cell do they input
-(line 28)delete promote user read in each cell
-(line 32-33)show the current row to the user
