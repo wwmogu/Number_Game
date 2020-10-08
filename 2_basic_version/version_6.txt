@@ -1,0 +1,5 @@
+update:
+    1. version six user can refill the board if they want(line 23,24,62 and line 58-61 )
+    2. show the game rule at the beginning of the game and when the user fails.(line 17-19 and line 93-95)
+    3. Also, add some blank lines to improve the readability of the game prompts.
+    4. show the number of remaining ways that the player can fill the board when gamer success.(line 118)

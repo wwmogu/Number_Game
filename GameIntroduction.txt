@@ -1,0 +1,31 @@
+This is a Simplified version game from Puzzle Based learning(PBL) Assignment3
+The goal of PBL game is to fill a board of 2 rows and 2018 columns with
+zeros and ones so that two equal numbers in two adjacent cells of the same
+row prevent the use of two equal numbers on the corresponding cells of the other row.
+
+This simplified version game only asks the player to fill a board of 2 rows and 5 columns but with the 
+same rules.
+
+In my document, there are three main versions of my game and a pdf file. 
+
+The PuzzleBasedLearning_assignment3.pdf file is where my ideas come from.
+
+In basic_version folder, there are my basic versions of my game, actually, only version_6 is my final basic version,
+others are all my steps and they have some bugs.
+
+In function_version folder, there is my function version of my game. 
+After I learned how to use the function in MATLAB,I realized my version 6 include too much functionality in one program. 
+And it is impossible if I do not want the user knows how I write this game.
+So, I change it to a function version, and my drive file is gameDriver.m ,user can play my game use this program.
+
+In GUI_version folder, there is my GUI version of my game.
+When I ask my tutor how to make a GUI version game, she told me, I should check the figure() function, there are some good thing 
+which can help me to make my GUI version.
+I learned something about figure() and watched a video named 'Sudoku game on youtube' on YouTube, then I finished my GUI version game which is GUI_driver.m
+
+Compare these three versions, I think my function version is my best version, although it is a word based game, the user can get more interaction with it.
+Which means it is the most interesting one for all my version. Also, I want to say this function version is not perfect, there is also some BUGs that I do not know how to figure out.
+For example, If at the beginning of the game and when the user fills the board, they do not according to the prompt to enter the number but some space or symbols,
+the program will stop or it will enter an endless loop.
+
+In the end, thank you for your time to read my introduction, please enjoy my game.

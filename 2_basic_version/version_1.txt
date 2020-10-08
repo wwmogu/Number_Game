@@ -1,0 +1,1 @@
+To implement this game we first need to let user fill the empty board.
