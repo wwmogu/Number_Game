@@ -1,6 +1,6 @@
 # Write at the beginning
-for running the best version of this game, go into 2_function_version folder, run gameDriver.m
-for running the GUI version of this game, go into 3_GUI_version folder, run GUI_driver.m
+* for running the best version of this game, go into 2_function_version folder, run gameDriver.m
+* for running the GUI version of this game, go into 3_GUI_version folder, run GUI_driver.m
 
 
 # Number_Game
