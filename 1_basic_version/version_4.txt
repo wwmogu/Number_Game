@@ -1,0 +1,4 @@
+This version will add the ability to check if user input is 1/0 or not.(line 31-35)
+
+update:
+(line 55)update tell user how many second do they need to wait.

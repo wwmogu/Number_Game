@@ -1,0 +1,4 @@
+This version will ask user if they want do this game one more time.(line 15,17,84-85)
+
+update:
+(line51,57,77-78,81-82) Make language more vivid.
